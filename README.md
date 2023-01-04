@@ -8,3 +8,5 @@ The value of Ui and Vi cannot be the same nor bigger than number of the cities, 
 
 The output of the program is:
 n lines, each of them with one value which is the cheapest way to get from the source city to 'i' (i=1, 2, ..., n) city. The k-th line should be equal zero naturally, because you are not able to move from the same city to the same city.
+
+The documentation is written in polish. Short explanations next to most of the crucial operations helping you understand what is going on in the code!
